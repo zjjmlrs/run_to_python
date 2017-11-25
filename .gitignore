@@ -1,0 +1,5 @@
+.vscode/
+.idea/
+*.log
+*.pyc
+/db_rewrite.json
