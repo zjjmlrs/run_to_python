@@ -6,6 +6,10 @@
 
 """
 装饰器
+参考资料:
+    简单 12 步理解 Python 装饰器:       http://python.jobbole.com/85056/
+    python黑魔法---装饰器（decorator）: http://python.jobbole.com/87309/?utm_source=blog.jobbole.com&utm_medium=relatedPosts
+    python装饰器和描述器的使用总结:       http://python.jobbole.com/86565/
 """
 
 
